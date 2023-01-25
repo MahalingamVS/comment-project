@@ -1,4 +1,4 @@
-# kite-react-items
+# react-items
 
 ## Introduction
 
